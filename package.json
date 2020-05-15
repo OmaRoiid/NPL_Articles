@@ -20,6 +20,7 @@
     "mini-css-extract-plugin": "^0.9.0",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "terser-webpack-plugin": "^3.0.1",
+    "valid-url": "^1.0.9",
     "webpack-cli": "^3.3.5"
   },
   "devDependencies": {
